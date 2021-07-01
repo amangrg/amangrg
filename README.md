@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amangrg
+- 👋 Hi, I’m @amangrg a web developer with over 2 years of profeessional development
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning the React/Redux workflow
 - 📫 How to reach me amangrg96@gmail.com
