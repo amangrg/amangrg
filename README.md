@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @amangrg
+- 👀 I’m interested in fullstack development
+- 🌱 I’m currently learning the React/Redux workflow
+- 📫 How to reach me amangrg96@gmail.com
