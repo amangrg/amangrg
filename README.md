@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aman Garg, a software engineer with around 5 years of professional experience
-- 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning the React Native workflow
+- 👋 Hi, I’m Aman Garg, an ex-software engineer, currently a grad student at Georgia Tech
+- 👀 I’m interested in machine learning, particularly in using it in the realm of neuroscience
+- 🌱 I’m currently learning more about diffusion models
 - 📫 How to reach me - amangrg96@gmail.com
